@@ -1,1 +1,1 @@
-# Improving Generalization Ability of Transformers in Time Series Forecasting.
+# Improving Generalization Ability of Transformers in Time Series Forecasting
